@@ -1,2 +1,4 @@
-'''result = 1 > 2
-print(result)'''
+```python
+result = 1 > 2
+print(result)
+```
