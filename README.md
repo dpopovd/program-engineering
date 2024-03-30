@@ -8,3 +8,5 @@
 result = 1 > 2
 print(result)
 ```
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab2/pic/lab2_2.png)
