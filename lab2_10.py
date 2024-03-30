@@ -1,0 +1,5 @@
+s = input("Введите строку: ")
+old_word = input("Введите символы, которые нужно заменить: ")
+new_word = input("Введите символы, на которые нужно заменить: ")
+result = s.replace(old_word, new_word)
+print(f"Строка после замены: {result}")
