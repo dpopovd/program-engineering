@@ -29,7 +29,7 @@ if __name__ == '__main__':  # Проверка, выполняется ли ск
     print(f"Время выполнения программы - {time_costs}")  # Вывод времени выполнения программы.
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab4/pic/img_4_1.png)
+![img](https://github.com/dpopovd/program-engineering/blob/lab4/pic/lab4_1.png)
 
 ### 2)
 
@@ -54,7 +54,7 @@ if __name__ == "__main__":
     roll_dice()
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab4/pic/img_4_2.png)
+![img](https://github.com/dpopovd/program-engineering/blob/lab4/pic/lab4_2.png)
 
 ### Вывод
 
@@ -74,7 +74,7 @@ for _ in range(5):
     time.sleep(1)
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab4/pic/img_4_3.png)
+![img](https://github.com/dpopovd/program-engineering/blob/lab4/pic/lab4_3.png)
 
 ### Вывод
 
@@ -103,7 +103,7 @@ if __name__ == "__main__":
     print("Среднее арифметическое:", average(*values))
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab4/pic/img_4_4.png)
+![img](https://github.com/dpopovd/program-engineering/blob/lab4/pic/lab4_4.png)
 
 Эта программа использует функцию average, которая принимает произвольное количество аргументов (*args). Функция вычисляет сумму всех аргументов и делит ее на их количество, чтобы получить среднее арифметическое. В точке входа программа запрашивает у пользователя числа, сохраняет их в списке и вызывает функцию average, передавая значения из списка в качестве аргументов. Полученное среднее арифметическое выводится на экран.
 
@@ -131,9 +131,7 @@ treug = calc_treug(a, b, c)
 print(f"Площадь треугольника: {treug}")
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab4/pic/img_4_5_1.png)
-![img](https://github.com/xsadsenpai/py_practice/blob/lab4/pic/img_4_5_2.png)
-
+![img](https://github.com/dpopovd/program-engineering/blob/lab4/pic/lab4_5-2.png)
 
 ### Вывод
 
