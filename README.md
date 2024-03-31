@@ -47,7 +47,7 @@ print(f"Количество разных посетителей: {any_visitors}
 print(f"Самый частый посетитель (код работника): {visitor}")
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab5/pic/img_5_1.png)
+![img](https://github.com/dpopovd/program-engineering/blob/lab5/pic/lab5_1.png)
 
 ##### Вывод
 
@@ -85,7 +85,7 @@ print("Три худшие результаты:", bad_results)
 print("Результаты начиная с 10:", results_ot_10)
 ```
 
-  ![img](https://github.com/xsadsenpai/py_practice/blob/lab5/pic/img_5_2.png)
+  ![img](https://github.com/dpopovd/program-engineering/blob/lab5/pic/lab5_2.png)
 
 ##### Вывод
 
@@ -127,7 +127,7 @@ print("Площадь треугольника из максимальных з�
 print("Площадь треугольника из минимальных значений:", three_treug_min)
 ```
 
-  ![img](https://github.com/xsadsenpai/py_practice/blob/lab5/pic/img_5_3.png)
+  ![img](https://github.com/dpopovd/program-engineering/blob/lab5/pic/lab5_3.png)
 
 ##### Вывод
 
@@ -168,7 +168,7 @@ print("Обновленный список оценок 2:", upd_rating2)
 print("Обновленный список оценок 3:", upd_rating3)
 ```
 
-  ![img](https://github.com/xsadsenpai/py_practice/blob/lab5/pic/img_5_4.png)
+  ![img](https://github.com/dpopovd/program-engineering/blob/lab5/pic/lab5_4.png)
 
 ##### Вывод
 
@@ -216,7 +216,7 @@ print(result_2)
 print(result_3)
 ```
 
-  ![img](https://github.com/xsadsenpai/py_practice/blob/lab5/pic/img_5_5.png)
+  ![img](https://github.com/dpopovd/program-engineering/blob/lab5/pic/lab5_5.png)
 
 ##### Вывод
 
