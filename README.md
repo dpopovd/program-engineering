@@ -20,7 +20,7 @@ if __name__ == "__main__":
 ```
 
 
-  ![img_11_1.png](https://github.com/xsadsenpai/py_practice/blob/lab11/pic/img_11_1.png)
+  ![img_11_1.png](https://github.com/dpopovd/program-engineering/blob/lab11/pic/lab11_1.png)
 
 ##### Вывод
 
@@ -46,7 +46,7 @@ if __name__ == "__main__":
         next(fibonacci)
 ```
 
-  ![img_11_2.png](https://github.com/xsadsenpai/py_practice/blob/lab11/pic/img_11_2.png)
+  ![img_11_2.png](https://github.com/dpopovd/program-engineering/blob/lab11/pic/lab11_1.png)
 
 ##### Вывод
 
