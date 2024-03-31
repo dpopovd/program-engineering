@@ -171,7 +171,7 @@ if __name__ == "__main__":
     gardener.harvest()
 ```
 
-  ![img_9_1.png](https://github.com/xsadsenpai/py_practice/blob/lab9/pic/img_9_1.png)
+  ![img_9_1.png](https://github.com/dpopovd/program-engineering/blob/lab9/pic/lab9.png)
 
 ##### Вывод
 
