@@ -33,7 +33,8 @@ def count_words(file_name):
         print("Произошла ошибка:", e)
         return None
 
-file_name = "kontur.txt"
+
+file_name = "rusal.txt"
 
 try:
     result = count_words(file_name)
