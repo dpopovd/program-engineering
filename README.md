@@ -13,7 +13,7 @@ print("Список чисел:", num_list)
 print("Кортеж чисел:", nums_tuple)
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab6/pic/img_6_1.png)
+![img](https://github.com/dpopovd/program-engineering/blob/lab6/pic/lab6_1.png)
 
 ##### Вывод
 
@@ -57,7 +57,7 @@ for tup, value in data:
     print(rem(tup, value))
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab6/pic/img_6_2.png)
+![img](https://github.com/dpopovd/program-engineering/blob/lab6/pic/lab6_2.png)
 
 ##### Вывод
 
@@ -87,7 +87,7 @@ result = count_dig(s)
 print("Словарь из трех самых часто встречаемых чисел:", result)
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab6/pic/img_6_3.png)
+![img](https://github.com/dpopovd/program-engineering/blob/lab6/pic/lab6_3.png)
 
 ##### Вывод
 
@@ -136,7 +136,7 @@ for log_tuple, emp_test_id in data:
     print(emp_test(log_tuple, emp_test_id))
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab6/pic/img_6_4.png)
+![img](https://github.com/dpopovd/program-engineering/blob/lab6/pic/lab6_4.png)
 
 ##### Вывод
 
@@ -171,11 +171,7 @@ for st in data:
     print()
 ```
 
-![img](https://github.com/xsadsenpai/py_practice/blob/lab6/pic/img_6_5_1.png)
-
-![img](https://github.com/xsadsenpai/py_practice/blob/lab6/pic/img_6_5_2.png)
-
-![img](https://github.com/xsadsenpai/py_practice/blob/lab6/pic/img_6_5_3.png)
+![img](https://github.com/dpopovd/program-engineering/blob/lab6/pic/lab6_5.png)
 
 ##### Вывод
 
