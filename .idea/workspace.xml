@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95de01d7-5045-4d62-96b9-3c64ce59b9ad" name="Changes" comment="" />
+    <list default="true" id="95de01d7-5045-4d62-96b9-3c64ce59b9ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3_5.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,12 +34,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dpopovd"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dpopovd&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -42,9 +51,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2eNPTvPeW3jq5LSALxhaBcY4Cf5" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,30 +62,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lab.executor": "Run",
-    "Python.lab2_1.executor": "Run",
-    "Python.lab2_10.executor": "Run",
-    "Python.lab2_2.executor": "Run",
-    "Python.lab2_3.executor": "Run",
-    "Python.lab2_4.executor": "Run",
-    "Python.lab2_5.executor": "Run",
-    "Python.lab2_6.executor": "Run",
-    "Python.lab2_7.executor": "Run",
-    "Python.lab2_8.executor": "Run",
-    "Python.lab2_9.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "lab3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lab.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lab3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711742073303</updated>
       <workItem from="1711742074641" duration="9921000" />
+      <workItem from="1711900739211" duration="913000" />
     </task>
     <servers />
   </component>
