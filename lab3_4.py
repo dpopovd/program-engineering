@@ -1,5 +1,5 @@
-     sentences = [
-        "London is the capital of the United Kingdom",
+def main():
+    sentences = ["London is the capital of the United Kingdom",
         "Oh my god, I'm so tired of doing these DIY jobs...",
         "He used to think he was ugly, but now he sees the beauty in herself. End"
     ]
