@@ -46,11 +46,7 @@ except Exception as e:
     print("Произошла ошибка:", e)
 ```
 
-  ![img_7_1_1.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_1_1.png)
-
-  ![img_7_1_2.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_1_2.png)
-
-  ![img_7_1_3.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_1_3.png)
+  ![img_7_1.png](https://github.com/dpopovd/program-engineering/blob/lab7/pic/lab7_1.png)
 
 ##### Вывод
 
@@ -118,13 +114,7 @@ if __name__ == "__main__":
     main()
 ```
 
-  ![img_7_2_1.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_2_1.png)
-
-  ![img_7_2_2.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_2_2.png)
-
-  ![img_7_2_3.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_2_3.png)
-
-   ![img_7_2_4.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_2_4.png)
+  ![img_7_2.png](https://github.com/dpopovd/program-engineering/blob/lab7/pic/lab7_2.png)
 
 ##### Вывод
 Через консоль есть возможность добавить категорию и указать текущие расходы. В сам файл вписываются данные.
@@ -177,9 +167,8 @@ if num_letters is not None and num_words is not None and num_lines is not None:
     print(f"{num_lines} lines")
 ```
 
-  ![img_7_3_1.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_3_1.png)
+  ![img_7_3.png](https://github.com/dpopovd/program-engineering/blob/lab7/pic/lab7_3.png)
 
-  ![img_7_3_2.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_3_2.png)
 
 ##### Вывод
 
@@ -231,9 +220,8 @@ if __name__ == "__main__":
     main()
 ```
 
-  ![img_7_4_1.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_4_1.png)
+  ![img_7_4.png](https://github.com/dpopovd/program-engineering/blob/lab7/pic/lab7_4.png)
 
-  ![img_7_4_2.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_4_2.png)
 
 ##### Вывод
 
@@ -268,11 +256,7 @@ if __name__ == "__main__":
     main()
 ```
 
-  ![img_7_5_1.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_5_1.png)
-
-  ![img_7_5_2.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_5_2.png)
-
-  ![img_7_5_3.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_5_3.png)
+  ![img_7_5.png](https://github.com/dpopovd/program-engineering/blob/lab7/pic/lab7_5.png)
 
 ##### Вывод
 
