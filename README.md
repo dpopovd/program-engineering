@@ -49,7 +49,7 @@ print("\nПытаюсь перечитать книгу еще раз...")
 my_book.check_out()
 ```
 
-  ![img_8_1.png](https://github.com/xsadsenpai/py_practice/blob/lab8/pic/img_8_1.png)
+  ![img_8_1.png](https://github.com/dpopovd/program-engineering/blob/lab8/pic/lab8_1.png)
 
 ##### Вывод
 Этот код создает класс Book (Книга) в Python, который моделирует основные характеристики книги, такие как заголовок, автор, жанр и год публикации. Класс Book имеет методы для проверки книги и её возврата.
@@ -103,7 +103,7 @@ print("\nПолучение оценки пользователей...")
 print("Рейтинг пользователей:", my_book.user_rating)
 ```
 
-  ![img_8_2.png](https://github.com/xsadsenpai/py_practice/blob/lab8/pic/img_8_2.png)
+  ![img_8_2.png](https://github.com/dpopovd/program-engineering/blob/lab8/pic/lab8_2.png)
 
 ##### Вывод
 
@@ -146,7 +146,7 @@ print("\nПопытка повторного воспроизведения ау
 my_audiobook.play()
 ```
 
-  ![img_8_3.png](https://github.com/xsadsenpai/py_practice/blob/lab8/pic/img_8_3.png)
+  ![img_8_3.png](https://github.com/dpopovd/program-engineering/blob/lab8/pic/lab8_3.png)
 
 ##### Вывод
 
@@ -204,7 +204,7 @@ print("Новая продолжительность аудиокниги:", my_
 print("\nБыла ли аудиокнига воспроизведена?", my_audiobook.has_been_played())
 ```
 
-  ![img_8_4.png](https://github.com/xsadsenpai/py_practice/blob/lab8/pic/img_8_4.png)
+  ![img_8_4.png](https://github.com/dpopovd/program-engineering/blob/lab8/pic/lab8_4.png)
 
 ##### Вывод
 
@@ -241,7 +241,7 @@ audiobook = Audiobook("Война и мир", "Лев Толстой", "Рома
 print(audiobook.get_book_info())
 ```
 
-  ![img_8_5.png](https://github.com/xsadsenpai/py_practice/blob/lab8/pic/img_8_5.png)
+  ![img_8_5.png](https://github.com/dpopovd/program-engineering/blob/lab8/pic/lab8_5.png)
 
 ##### Вывод
 
