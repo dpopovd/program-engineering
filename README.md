@@ -43,7 +43,7 @@ if __name__ == '__main__':
 ```
 
 
-![img_10_1.png](https://github.com/xsadsenpai/py_practice/blob/lab10/pic/img_10_1.png)
+![img_10.png](https://github.com/dpopovd/program-engineering/blob/lab10/pic/lab10_1.png)
 
 ##### Вывод
 
@@ -71,7 +71,7 @@ except Exception as e:
     print(e)
 ```
 
-![img_10_2_1.png](https://github.com/xsadsenpai/py_practice/blob/lab10/pic/img_10_2_1.png)
+![img_10_2.png](https://github.com/dpopovd/program-engineering/blob/lab10/pic/lab10_2.png)
 
 ##### Вывод
 
@@ -98,7 +98,7 @@ add_two_to_number()
 add_two_to_number()
 ```
 
-![img_10_3.png](https://github.com/xsadsenpai/py_practice/blob/lab10/pic/img_10_3.png)
+![img_10_3.png](https://github.com/dpopovd/program-engineering/blob/lab10/pic/lab10_3.png)
 
 ##### Вывод
 
@@ -135,7 +135,7 @@ if __name__ == "__main__":
     print(f"Результат возведения числа в квадрат: {result}")
 ```
 
-![img_10_4.png](https://github.com/xsadsenpai/py_practice/blob/lab10/pic/img_10_4.png)
+![img_10_4.png](https://github.com/dpopovd/program-engineering/blob/lab10/pic/lab10_4.png)
 
 ##### Вывод
 
@@ -171,7 +171,7 @@ if __name__ == "__main__":
         print(e)
 ```
 
-![img_10_5_1.png](https://github.com/xsadsenpai/py_practice/blob/lab10/pic/img_10_5_1.png)
+![img_10_5_1.png](https://github.com/dpopovd/program-engineering/blob/lab10/pic/lab10_5.png)
 
 
 ##### Вывод
