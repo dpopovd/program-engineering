@@ -26,7 +26,7 @@ def print_expenses(expenses):
 
 
 def main():
-    expenses_file = "rashod.txt"
+    expenses_file = "rusal.txt"
     expenses = load_expenses(expenses_file)
 
     while True:

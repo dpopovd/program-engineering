@@ -4,7 +4,7 @@ def count_words(file_name):
         max_count_word = ""
         max_count = 0
 
-        with open(file_name, 'r', encoding='utf-8') as file:
+        with open(file_name, 'r') as file:
             for line in file:
                 words = line.split()
                 for word in words:
@@ -26,7 +26,7 @@ def count_words(file_name):
         print("Произошла ошибка:", e)
         return None
 
-file_name = "kontur.txt"
+file_name = "rusal.txt"
 
 try:
     result = count_words(file_name)

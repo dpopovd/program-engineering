@@ -1,11 +1,8 @@
 ## Самостоятельная работа №7
 
-### Задание №1
-- Текст задания
+### 1)
 
 Найдите в интернете любую статью (объем статьи не менее 200 слов), скопируйте ее содержимое в файл и напишите программу, которая считает количество слов в текстовом файле и определит самое часто встречающееся слово. Результатом выполнения задачи будет: скриншот файла со статьей, листинг кода, и вывод в консоль, в котором будет указана вся необходимая информация.
-
-- Оформленный код
 
 ```python
 def count_words(file_name):
@@ -48,30 +45,26 @@ except Exception as e:
     print("Произошла ошибка:", e)
 ```
 
-- Скрины консоли
-
   ![img_7_1_1.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_1_1.png)
 
   ![img_7_1_2.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_1_2.png)
 
   ![img_7_1_3.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_1_3.png)
 
-- Развернутый вывод
+##### Вывод
 
 Код подтягивает файл с директории, посчитывает часто встречающие слова и сколько раз оно было использовано.
 
-### Задание №2
-- Текст задания
+### 2)
 
 У вас появилась потребность в ведении книги расходов, посмотрев все существующие варианты вы пришли к выводу что вас ничего не устраивает и нужно все делать самому. Напишите программу для учета расходов. Программа должна позволять вводить информацию о расходах, сохранять ее в файл и выводить существующие данные в консоль. Ввод информации происходит через консоль. Результатом выполнения задачи будет: скриншот файла с учетом расходов, листинг кода, и вывод в консоль, с демонстрацией работоспособности программы.
-
-- Оформленный код
 
 ```python
 def save_expenses(expenses, filename):
     with open(filename, 'w') as file:
         for category, amount in expenses.items():
             file.write(f"{category}: {amount}\n")
+
 
 def load_expenses(filename):
     expenses = {}
@@ -84,6 +77,7 @@ def load_expenses(filename):
         print("Файл с данными не найден. Создан новый файл.")
     return expenses
 
+
 def print_expenses(expenses):
     if not expenses:
         print("Нет информации о расходах.")
@@ -94,7 +88,7 @@ def print_expenses(expenses):
 
 
 def main():
-    expenses_file = "rashod.txt"
+    expenses_file = "rusal.txt"
     expenses = load_expenses(expenses_file)
 
     while True:
@@ -117,11 +111,11 @@ def main():
             break
         else:
             print("Некорректный ввод. Пожалуйста, выберите действие снова.")
+
+
 if __name__ == "__main__":
     main()
 ```
-
-- Скрины консоли
 
   ![img_7_2_1.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_2_1.png)
 
@@ -131,12 +125,10 @@ if __name__ == "__main__":
 
    ![img_7_2_4.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_2_4.png)
 
-- Развернутый вывод
-
+##### Вывод
 Через консоль есть возможность добавить категорию и указать текущие расходы. В сам файл вписываются данные.
 
-### Задание №3
-- Текст задания
+### 3)
 
 Имеется файл input.txt с текстом на латинице. Напишите программу, которая выводит следующую статистику по тексту: количество букв латинского алфавита; число слов; число строк.
 
@@ -159,8 +151,6 @@ Input file contains:
 20 words
 
 4 lines
-
-- Оформленный код
 
 ```python
 def analyze_text(file_name):
@@ -186,20 +176,15 @@ if num_letters is not None and num_words is not None and num_lines is not None:
     print(f"{num_lines} lines")
 ```
 
-- Скрины консоли
-
   ![img_7_3_1.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_3_1.png)
 
   ![img_7_3_2.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_3_2.png)
 
-
-
-- Развернутый вывод
+##### Вывод
 
 Код загружает файл, анализирует и выводит статистику по тексту.
 
-### Задание №4
-- Текст задания
+### 4)
 
 Напишите программу, которая получает на вход предложение, выводит его в терминал, заменяя все запрещенные слова звездочками * (количество звездочек равно количеству букв в слове). Запрещенные слова, разделенные символом пробела, хранятся в текстовом файле input.txt. Все слова в этом файле записаны в нижнем регистре. Программа должна заменить запрещенные слова, где бы они ни встречались, даже в середине другого слова. Замена производится независимо от регистра: если файл input.txt содержит запрещенное слово exam, то слова exam, Exam, ExaM, EXAM и exAm должны быть заменены на ****.
 
@@ -214,8 +199,6 @@ Hello, world! Python IS the programming language of thE future. My EMAIL is.... 
 • Ожидаемый результат:
 
 *****, ***ld! ****** ** *** programming language of *** future. My ***** **.... ****** ** awesome!!!!
-
-- Оформленный код
 
 ```python
 def censor_sentence(sentence, forbidden_words):
@@ -247,24 +230,17 @@ if __name__ == "__main__":
     main()
 ```
 
-- Скрины консоли
-
   ![img_7_4_1.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_4_1.png)
 
   ![img_7_4_2.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_4_2.png)
 
-
-
-- Развернутый вывод
+##### Вывод
 
 Код берет из файла слова, который в бане и заменяет на *** их в консоле, если они попадают в запрос.
 
-### Задание №5
-- Текст задания
+### 5)
 
 Самостоятельно придумайте и решите задачу, которая будет взаимодействовать с текстовым файлом.
-
-- Оформленный код
 
 ```python
 def replace_word_in_file(file_name, old_word, new_word):
@@ -291,15 +267,12 @@ if __name__ == "__main__":
     main()
 ```
 
-- Скрины консоли
-
   ![img_7_5_1.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_5_1.png)
 
   ![img_7_5_2.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_5_2.png)
 
   ![img_7_5_3.png](https://github.com/xsadsenpai/py_practice/blob/lab7/pic/img_7_5_3.png)
 
-
-- Развернутый вывод
+##### Вывод
 
 Код спрашивает какое слово заменить в файле, находит его и заменяет на слово введенное в запросе.
