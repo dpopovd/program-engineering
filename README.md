@@ -1,28 +1,28 @@
-##### 1) Установка Git
+##### 1) 
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_1.png)
 
-##### 2) Настройка
+##### 2) 
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_2.png)
 
-##### 3) Создание нового репозитория
+##### 3) 
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_3.png)
 
-##### 4) Подготовка файлов
+##### 4) 
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_4.png)
 
-##### 5) Фиксация изменений
+##### 5) 
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_5.png)
 
-##### 6) Подключение к удаленному репозиторию
+##### 6) 
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_6.png)
 
-##### 7) Ветвление
+##### 7) 
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_7.png)
 
@@ -30,27 +30,26 @@
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_8.png)
 
-##### 9) Удаление файлов, веток, локальных и удалённых репозиториев
-
+##### 9) 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_9.png)
 
-##### 10) Отслеживание изменений в коммитах
+##### 10) 
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_10.png)
 
-##### 12)  Возвращение к предыдущему коммиту
+##### 12) 
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_12.png)
 
-##### 13)  Исправление коммита
+##### 13)  
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_13.png)
 
-##### 14)  Разрешение конфликтов при слиянии
+##### 14)  
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_14.png)
 
-##### 15)  Настройка .gitignore
+##### 15)  
 
 ![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_15.png)
 
