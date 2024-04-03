@@ -1,20 +1,87 @@
-- Попов Дмитрий Валентинович
-- ИНО ЗБ ПОАС 22-2
+##### 1) Установка Git
 
-| Задание | Лаб_раб | Сам_раб |
-| ------ |--------|--|
-| Задание 1 | -   | + |
-| Задание 2 | -   | + |
-| Задание 3 | -   | + |
-| Задание 4 | -   | + |
-| Задание 5 | -   | + |
-| Задание 6 | -   | + |
-| Задание 7 | -   | + |
-| Задание 8 | -   | + |
-| Задание 9 | -   | + |
-| Задание 10 | -  | + |
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_1.png)
 
-знак "+" - задание выполнено; знак "-" - задание не выполнено;
+##### 2) Настройка
 
-Работу проверили:
-- к.э.н., доцент Панов М.А.
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_2.png)
+
+##### 3) Создание нового репозитория
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_3.png)
+
+##### 4) Подготовка файлов
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_4.png)
+
+##### 5) Фиксация изменений
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_5.png)
+
+##### 6) Подключение к удаленному репозиторию
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_6.png)
+
+##### 7) Ветвление
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_7.png)
+
+##### 8) Особенности применения «Фетч»
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_8.png)
+
+##### 9) Удаление файлов, веток, локальных и удалённых репозиториев
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_9.png)
+
+##### 10) Отслеживание изменений в коммитах
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_10.png)
+
+##### 12)  Возвращение к предыдущему коммиту
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_12.png)
+
+##### 13)  Исправление коммита
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_13.png)
+
+##### 14)  Разрешение конфликтов при слиянии
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_14.png)
+
+##### 15)  Настройка .gitignore
+
+![img](https://github.com/dpopovd/program-engineering/blob/lab1/pic/lab1_15.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
